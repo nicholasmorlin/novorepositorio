@@ -2,7 +2,6 @@
 
 Faremos uma lista de mercado para ver e adicionar items (com quantidade) para fazer compras no mercado.
 
-<<<<<<< HEAD
 ## Tecnologias
 
 ### Front-end
@@ -33,9 +32,3 @@ Teremos duas páginas:
 
 Uma na rota raiz ('/') que visualizamos a lista e outra na rota ('/adicionar') para adicionar novos items!
 Teremos algumas rotas adicionar para atualização e remoção de itens!
-=======
-o matt é homossexual matt
-
-VAI TOMAR NOANWOWOE
-
->>>>>>> d2bc4779db0d3aac2f80c67b2447fa6d89b9f7a7
